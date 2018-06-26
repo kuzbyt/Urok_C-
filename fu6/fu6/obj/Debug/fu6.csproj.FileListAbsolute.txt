@@ -1,0 +1,7 @@
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\obj\Debug\fu6.csprojAssemblyReference.cache
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\obj\Debug\fu6.csproj.CoreCompileInputs.cache
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\bin\Debug\fu6.exe.config
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\bin\Debug\fu6.exe
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\bin\Debug\fu6.pdb
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\obj\Debug\fu6.exe
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu6\fu6\obj\Debug\fu6.pdb
