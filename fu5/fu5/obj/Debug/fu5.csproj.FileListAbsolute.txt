@@ -1,0 +1,6 @@
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\bin\Debug\fu5.exe.config
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\bin\Debug\fu5.exe
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\bin\Debug\fu5.pdb
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\obj\Debug\fu5.csproj.CoreCompileInputs.cache
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\obj\Debug\fu5.exe
+I:\КУРС С#\2018_УРОКИ\Урок13\ПР\fu5\fu5\obj\Debug\fu5.pdb
