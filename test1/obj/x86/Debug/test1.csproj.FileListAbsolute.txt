@@ -1,0 +1,39 @@
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\bin\Debug\test1.exe
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\bin\Debug\test1.pdb
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\test1.Form1.resources
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\test1.Properties.Resources.resources
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\test1.exe
+C:\Documents and Settings\admin\Рабочий стол\PRIMER_C#\test1\obj\x86\Debug\test1.pdb
+F:\С#\ПРОГРАМИ\PRIMER\test1\obj\x86\Debug\test1.exe
+F:\С#\ПРОГРАМИ\PRIMER\test1\obj\x86\Debug\test1.pdb
+F:\С#\ПРОГРАМИ\PRIMER\test1\bin\Debug\test1.exe
+F:\С#\ПРОГРАМИ\PRIMER\test1\bin\Debug\test1.pdb
+F:\С#\ПРОГРАМИ\PRIMER\test1\obj\x86\Debug\test1.Form1.resources
+F:\С#\ПРОГРАМИ\PRIMER\test1\obj\x86\Debug\test1.Properties.Resources.resources
+F:\С#\ПРОГРАМИ\PRIMER\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.exe
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.pdb
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.exe
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.pdb
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Form1.resources
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Properties.Resources.resources
+F:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.exe
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.pdb
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.exe
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.pdb
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Form1.resources
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Properties.Resources.resources
+G:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.exe
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.pdb
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.exe
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\bin\Debug\test1.pdb
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Form1.resources
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.Properties.Resources.resources
+I:\КУРС С#\ЗАНЯТТЯ\ТЕСТИ\ТЕСТИ\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
